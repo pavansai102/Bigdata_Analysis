@@ -3,9 +3,7 @@
 
 *COMPANY *: CODTECH IT SOLUTIONS
 
-*NAME *: Yogesh S
-
-*INTERN ID *: CTIS3967
+*NAME *: Venkata sai pavan
 
 *DOMAIN *: Data Analysis
 
@@ -114,8 +112,3 @@ Output:
 ✅ Conclusion
 
 This project demonstrates how PySpark can be used to efficiently process and analyze large datasets. The analysis provides valuable insights into user behavior and movie rating trends while showcasing the power of distributed computing.
-
-🔗 Author
-
-Yogesh S
-Aspiring Data Analyst | Big Data Enthusiast
